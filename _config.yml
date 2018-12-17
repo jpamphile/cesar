@@ -9,8 +9,8 @@
 title: Severin Jr Ndema-Moussa #Alpha
 email: severin.jr.n.m@gmail.com #youremailaddress@gmail.com
 description: CREAM #The Jekyll version of the Alpha theme by HTML5 UP.
-baseurl: /cream #"/alpha-jekyll-theme" # the subpath of your site, e.g. /blog
-url: https://jpamphile.github.io" #"https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+baseurl: "cesar" #"/alpha-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "" #"https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url:
